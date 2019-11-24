@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Sichuan University, 2015
+* Ph.D in Applied Mathematics, University of California, Davis, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring & Summer 2019: Research Intern
+  * Adobe
+  * Duties included: Lightfields, Computational tomography
+  * Supervisor: Dr Todor Georgiev
 
-* Fall 2015: Research Assistant
-  * Github University
+* Winter 2017: Graduate Student Researcher
+  * UC Davis
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Naoki Saito
   
 Skills
 ======
