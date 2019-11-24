@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haotian Li"
-  avatar           : "profile_img.jpeg"
+  avatar           : "profile.png"
   bio              : "Graduate student researcher at UC Davis, interested in Graph Signal Process, Applied Harmonic Analysis and Machine Learning."
   location         : "Davis, CA"
   employer         :
