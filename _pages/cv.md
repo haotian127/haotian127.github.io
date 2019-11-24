@@ -20,10 +20,12 @@ Work experience
 ======
 * Winter 2017 - present: Graduate Student Researcher
   * UC Davis
+  * Location: Davis, CA
   * Research Topics: Optimal transport, Metrics of graph Laplacian eigenvectors and Natural graph wavelet packets
-  * Supervisor: Prof. Naoki Saito
-* Spring & Summer 2019: Research Intern
+  * Advisor: Prof. Naoki Saito
+* Spring & Summer 2019: Research Intern 
   * Adobe
+  * Location: San Jose, CA
   * Research Topics: Lightfields, Computational tomography and Ultrahyperbolic PDE
   * Supervisor: Dr. Todor Georgiev
   
