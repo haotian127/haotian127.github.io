@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Also available in PDF format.](https://haotian127.github.io/files/Resume_HaotianLi.pdf)
+
 Education
 ======
 * B.S. in Mathematics, Sichuan University, 2015
