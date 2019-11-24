@@ -7,7 +7,9 @@ date: 2009-10-01
 venue: 'SPIE conference: Wavelets and Sparsity XVIII'
 paperurl: 'http://haotian127.github.io/files/Metrics_of_graph_Laplacian_eigenvectors.pdf'
 citation: 'Haotian Li and Naoki Saito "Metrics of graph Laplacian eigenvectors", Proc. SPIE 11138, Wavelets and Sparsity XVIII, 111381K (9 September 2019).'
+---
 
 [Download paper here](https://doi.org/10.1117/12.2528644)
+
 
 Recommended citation: Haotian Li and Naoki Saito "Metrics of graph Laplacian eigenvectors", Proc. SPIE 11138, Wavelets and Sparsity XVIII, 111381K (9 September 2019).
