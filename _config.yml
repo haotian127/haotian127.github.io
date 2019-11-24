@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haotian Li's website"
+title                    : "Haotian Li"
 title_separator          : "-"
 name                     : &name "Haotian Li"
 description              : &description "Graduate student researcher at UC Davis"
