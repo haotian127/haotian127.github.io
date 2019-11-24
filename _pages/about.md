@@ -10,10 +10,10 @@ redirect_from:
 
 
 
-Hi! I am Haotian Li, a applied math graduate student at [University of California, Davis](https://www.math.ucdavis.edu/) working with professor [Naoki
-Saito](https://www.math.ucdavis.edu/~saito/).
+Hi! I am Haotian Li, an applied math graduate student at [University of California, Davis](https://www.math.ucdavis.edu/). Currently, I am working with professor [Naoki
+Saito](https://www.math.ucdavis.edu/~saito/) on designing natural graph wavelet packets.
 
-I am interested in topics: (Graph) Signal Processing, Machine Learning (Deep Learning), Computer Vision, Imaging, and NLP. 
+I am interested in topics: (Graph) Signal Processing, Machine Learning (Deep Learning), Computer Vision, Imaging, and NLP, e.t.c. *Stay Hungry, Stay Foolish!*
 
 To contact me, feel free to send me an email at htsli [at] ucdavis [dot] edu.
 
