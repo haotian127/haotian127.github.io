@@ -13,20 +13,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Sichuan University, 2015
-* Ph.D in Applied Mathematics, University of California, Davis, 2021 (expected)
+* B.S. in Mathematics, **Sichuan University**, 2015
+* Ph.D in Applied Mathematics, **University of California, Davis**, 2021 (expected)
 
 Work experience
 ======
-* Spring & Summer 2019: Research Intern
-  * Adobe
-  * Research Topics: Lightfields, Computational tomography and Ultrahyperbolic PDE
-  * Supervisor: Dr. Todor Georgiev
-
 * Winter 2017 - present: Graduate Student Researcher
   * UC Davis
   * Research Topics: Optimal transport, Metrics of graph Laplacian eigenvectors and Natural graph wavelet packets
   * Supervisor: Prof. Naoki Saito
+* Spring & Summer 2019: Research Intern
+  * Adobe
+  * Research Topics: Lightfields, Computational tomography and Ultrahyperbolic PDE
+  * Supervisor: Dr. Todor Georgiev
   
 Skills
 ======
