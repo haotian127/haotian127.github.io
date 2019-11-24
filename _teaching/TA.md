@@ -8,7 +8,7 @@ date: 2017-01-10
 location: "Davis, CA"
 ---
 
-* I have been TA for various math courses since 2017.
+* I have been a TA for various math courses since 2017.
 
 * Topics: Advanced Calculus, Linear Algebra, Introduction to Abstract Mathematics and Methods of Applied Mathematics (graduate course). 
 
