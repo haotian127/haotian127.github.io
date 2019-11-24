@@ -18,13 +18,13 @@ Work experience
 ======
 * Spring & Summer 2019: Research Intern
   * Adobe
-  * Duties included: Lightfields, Computational tomography
-  * Supervisor: Dr Todor Georgiev
+  * Research Topics: Lightfields, Computational tomography
+  * Supervisor: Dr. Todor Georgiev
 
-* Winter 2017: Graduate Student Researcher
+* Winter 2017 - present: Graduate Student Researcher
   * UC Davis
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Naoki Saito
+  * Research Topics: Metrics of graph Laplacian eigenvectors, Natural graph wavelet packets
+  * Supervisor: Prof. Naoki Saito
   
 Skills
 ======
