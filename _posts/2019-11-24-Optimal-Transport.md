@@ -1,7 +1,7 @@
 ---
 title: 'Optimal Transport'
-date: 
-permalink: /posts/2019/11/blog-post-1
+date: 2019-11-24
+permalink: /posts/2019/11/Optimal-Transport
 tags:
   - optimal transport
   - information geometry
