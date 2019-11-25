@@ -8,6 +8,6 @@ tags:
 
 The textbook and a course website.
 
-* [The Elements of Statistical Learning] (https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+* [Book: The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
-* [UC Davis Statistics 208](https://github.com/jsharpna/DavisSML)
+* [Course: UC Davis Statistics 208](https://github.com/jsharpna/DavisSML)
