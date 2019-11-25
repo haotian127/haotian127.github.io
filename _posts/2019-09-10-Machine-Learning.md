@@ -6,7 +6,7 @@ tags:
   - machine learning
 ---
 
-The textbook and a course website.
+The ESL-II textbook and a course website.
 
 * [Book: The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
