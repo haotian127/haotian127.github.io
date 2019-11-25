@@ -3,9 +3,9 @@ title: 'Graph Neural Networks'
 date: 2019-11-21
 permalink: /posts/2019/11/Graph-Neural-Networks/
 tags:
-  - Graph neural networks
-  - Graph convolutional networks
-  - Graph wavelet neural networks
+  - graph neural networks
+  - graph convolutional networks
+  - graph wavelet neural networks
 ---
 
 Two interesting GitHub repositories about graph neural networks:
