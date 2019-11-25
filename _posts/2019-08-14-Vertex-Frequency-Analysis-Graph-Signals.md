@@ -3,7 +3,7 @@ title: 'Graph Signal Processing'
 date: 2019-11-18
 permalink: /posts/2019/11/Vertex-Frequency-Analysis-Graph-Signals/
 tags:
-  - cool posts
+  - Graph Laplacian
   - Graph Wavelets
   - GSP
 ---
