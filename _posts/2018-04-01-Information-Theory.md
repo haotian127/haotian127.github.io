@@ -6,7 +6,7 @@ tags:
   - information theory
 ---
 
-The textbook.
+The information textbook and the course I took at UC Davis.
 
 * [Book: Elements of Information Theory, 2nd Ed.Thomas M. Cover and Joy A. Thomas.Wiley, 2006.](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X)
 
