@@ -3,8 +3,8 @@ title: 'Vertex-Frequency Analysis Graph Signals'
 date: 2019-11-18
 permalink: /posts/2019/11/Vertex-Frequency-Analysis-Graph-Signals/
 tags:
-  - Graph Laplacian
-  - Graph wavelets
+  - graph Laplacian
+  - graph wavelets
   - GSP
 ---
 
