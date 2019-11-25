@@ -11,7 +11,7 @@ redirect_from:
 
 
 Hi! I am Haotian Li, an applied math graduate student at [University of California, Davis](https://www.math.ucdavis.edu/). Currently, I am working with professor [Naoki
-Saito](https://www.math.ucdavis.edu/~saito/)(my PhD advisor) on designing natural graph wavelet packets.
+Saito](https://www.math.ucdavis.edu/~saito/) (my PhD advisor) on designing natural graph wavelet packets.
 
 I am interested in many topics: (Graph) Signal Processing, Machine Learning (Deep Learning), Computer Vision, Imaging, and NLP, e.t.c. *Stay Hungry, Stay Foolish!*
 
