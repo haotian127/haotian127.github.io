@@ -10,9 +10,9 @@ tags:
 
 Two interesting GitHub repositories about graph neural networks:
 
-* Graph Convolution Networks: https://github.com/tkipf/gcn
+* Graph Convolution Networks: [https://github.com/tkipf/gcn](https://github.com/tkipf/gcn)
 
-* Graph Wavelet Neural Networks: https://github.com/Eilene/GWNN
+* Graph Wavelet Neural Networks: [https://github.com/Eilene/GWNN](https://github.com/Eilene/GWNN)
 
 A nice review paper: [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf)
 
