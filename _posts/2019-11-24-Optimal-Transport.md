@@ -6,6 +6,7 @@ tags:
   - optimal transport
   - information geometry
 ---
+Good materials for optimal transport theory.
 
 Reading Seminar
 ------
