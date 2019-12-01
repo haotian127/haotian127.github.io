@@ -33,7 +33,7 @@ Skills
 ======
 * Programming: Julia, Python, Matlab, R, SQL, C++ 
 * Tools: $\LaTeX$, Git
-* Others: (Graph) Signal Processing, Machine Learning (Deep learning), Optimization, Scientific Computing
+* Others: (Graph) Signal Processing, Machine Learning (Deep learning), Optimization, Data Science
 
 Publications
 ======
