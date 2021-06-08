@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haotian Li"
 title_separator          : "-"
 name                     : &name "Haotian Li"
-description              : &description "Graduate student researcher at UC Davis"
+description              : &description "Personal website"
 url                      : https://haotian127.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haotian127/haotian127.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haotian Li"
   avatar           : "profile.png"
-  bio              : "Applied Math Ph.D., interested in Graph Signal Processing, Applied Computational Harmonic Analysis and Machine Learning."
+  bio              : "Ph.D. in Applied Math, interested in Graph Signal Processing, Applied Computational Harmonic Analysis and Machine Learning."
   location         : "Davis, CA"
   employer         :
   pubmed           : 
